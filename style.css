@@ -1,0 +1,128 @@
+body {
+  width: 750px;
+  padding: 0 200px;
+  position: relative;
+  background-color: GhostWhite;
+}
+.menu {
+  width: 750px;
+  height: 100px;
+  background color: ivory;
+}
+header {
+  position: relative;
+  margin-top: 0;
+}
+img {
+  width: 170%;
+}
+
+main {
+  padding: 10p;
+  position: relative;
+  background-color: ivory;
+  border: 10px ivory solid;
+}
+.intro {
+  position: absolute;
+  top: 190px;
+  right: 70px;
+}
+h1 {
+  font-family: Abril Fatface, serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 50px;
+}
+
+.catsignOne {
+  position: absolute;
+  font-size: 150px;
+  color: ivory;
+  right: 600px;
+  top: 330px;
+  font-family: Abril Fatface, serif;
+}
+
+.h1Rest {
+  display: flex;
+  font-weight: 500;
+  font-size: 40px;
+  color: white;
+  background-color: #282828;
+  padding: 60px;
+}
+
+.catsignTwo {
+  position: absolute;
+  font-size: 150px;
+  color: ivory;
+  right: 600px;
+  top: 1200px;
+  font-family: Abril Fatface, serif;
+}
+
+.catsignThree {
+  position: absolute;
+  font-size: 150px;
+  color: ivory;
+  right: 600px;
+  top: 2090px;
+  font-family: Abril Fatface, serif;
+}
+
+h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 900;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h3 {
+  margin: 50px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 25px;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: large;
+  line-height: 30px;
+  margin: 50px;
+  flex-grow: 1;
+}
+
+.startText {
+  margin-top: 60px;
+}
+.italic {
+  font-style: italic;
+  font-family: "Luxurious Roman", cursive;
+  line-height: 2px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+ul {
+  margin-bottom: 30px;
+}
+
+li {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: large;
+  list-style: square;
+  line-height: 25px;
+  margin: 0 50px;
+}
+
+.smallLetters {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.overline {
+  border-top: black 5px solid;
+  padding-top: 40px;
+}
